@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alhaj7
+- 👀 I’m interested in technology, especially artificial intelligence.
+- 🌱 I’m currently learning JavaScript, HTML, and PHP.
+- 📫 How to reach me: Email: ahmedalhaj10@gmail.com
